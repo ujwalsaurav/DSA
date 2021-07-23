@@ -2,7 +2,6 @@
 
 Hi, I am Ujwal and this is the track of my daily coding problems.
 
-Started- November 04,2020. I have solved 2 coding problems till now.
 
 ## Problem: #001
 
